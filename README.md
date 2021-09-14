@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on Autodesk Sketchbook
 - 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with new oppurtunities
+- 🤔 I’m looking for help with new opportunities
 - 💬 Ask me about anything 😉
 - 📫 How to reach me: [Instagram](https://www.instagram.com/__.the_lethal_soul.__/)
 - 😄 Pronouns: She/Her
 - 🏫 Student @ MEASS
-- 🪐 Enthusisitic learning from udemy
+- 🪐 Enthusiastic learning from udemy
 - ⭐ TinkerHub Creative Lead @ MEASS
 - ⚡ Fun fact: I'm Coool!!!
 
