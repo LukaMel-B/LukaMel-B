@@ -1,9 +1,64 @@
-### Hi there 👋
+## Hi World! I am Luha 🙌
+<img align="right" src"https://github.com/LukaMel-B/LukaMel-B/blob/main/code.gif?raw=true" height="320" />
 
-- 🔭 I’m currently working on my new course
+## I am a Student, Learner, Flutter Lover, Digital Artist
+
+- 🔭 I’m currently working on Autodesk Sketchbook
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with new oppurtunities
 - 💬 Ask me about anything 😉
 - 📫 How to reach me: [Instagram](https://www.instagram.com/__.the_lethal_soul.__/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Im Cool!
+- 🏫 Student @ MEASS
+- 🪐 Enthusisitic learning from udemy
+- ⭐ TinkerHub Creative Lead @ MEASS
+- ⚡ Fun fact: I'm Coool!!!
+
+
+## Ping me on :
+
+[<img align="left" width="22px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Instagram.png?raw=true" />][Instagram]
+[<img align="left" width="22px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Linkedin.png?raw=true" />][LinkedIn]
+[<img align="left" width="22px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Whatsapp.png?raw=true" />][WhatsApp]
+
+<br />
+
+## Languages and Tools :
+
+<!-- Enthusiast:Start -->
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img align="left" width="26px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Android.png?raw=true" />
+<!-- Enthusiast:Start -->
+
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="LukaMel-B's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukaMel-B&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaMel-B" />
+
+</details>
+
+[LinkedIn]: https://www.linkedin.com/in/luha-saniyya-3928641a9/
+[instagram]: https://www.instagram.com/__.the_lethal_soul.__/
