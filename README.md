@@ -1,7 +1,9 @@
-## Hi World! I am Luha 🙌
-<img align="right" src"https://github.com/LukaMel-B/LukaMel-B/blob/main/code.gif?raw=true" height="320" />
+### Hi World! I am Luha 🙌
 
-## I am a Student, Learner, Flutter Lover, Digital Artist
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+## I am a Student, Learner, Digital Artist
 
 - 🔭 I’m currently working on Autodesk Sketchbook
 - 🌱 I’m currently learning Flutter
@@ -14,21 +16,25 @@
 - ⭐ TinkerHub Creative Lead @ MEASS
 - ⚡ Fun fact: I'm Coool!!!
 
+<br />
 
 ## Ping me on :
 
 [<img align="left" width="22px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Instagram.png?raw=true" />][Instagram]
 [<img align="left" width="22px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Linkedin.png?raw=true" />][LinkedIn]
-[<img align="left" width="22px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Whatsapp.png?raw=true" />][WhatsApp]
+<img align="left" width="22px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Whatsapp.png?raw=true" />
 
 <br />
+
+<br /><br />
 
 ## Languages and Tools :
 
 <!-- Enthusiast:Start -->
-<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -42,8 +48,9 @@
 <img align="left" width="26px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Android.png?raw=true" />
 <!-- Enthusiast:Start -->
 
+<br /><br />
 <br />
-<br />
+
 ---
 
 <details>
