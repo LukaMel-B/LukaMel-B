@@ -33,9 +33,11 @@
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
