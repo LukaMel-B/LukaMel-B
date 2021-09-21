@@ -1,6 +1,6 @@
 ### Hi World! I am Luha 🙌
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Superhero.gif?raw=true" width="450" height="320" />
 
 
 ## I am a Student, Learner, Digital Artist
