@@ -1,6 +1,6 @@
 ### Hi World! I am Luha 🙌
 
- <img align="right" alt="GIF" src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Life.gif?raw=true" width="500" height="500" />
+ <img align="right" alt="GIF" src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/Life.gif?raw=true" width="500" height="500" />
 
 
 ## I am a Student, Learner, Digital Artist
@@ -46,7 +46,7 @@
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img align="left" width="26px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Android.png?raw=true" />
+<img align="left" width="26px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/Android.png?raw=true" />
 <!-- Enthusiast:Start -->
 
 <br /><br />
