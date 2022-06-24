@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with new opportunities
 - 💬 Ask me about anything 😉
-- 📫 How to reach me: [<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359455-73cd4dbf-3b1f-4e6e-9358-b1924a4178f3.png" />][LinkedIn]
+- 📫 How to reach me: [<img align="right" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359455-73cd4dbf-3b1f-4e6e-9358-b1924a4178f3.png" />][LinkedIn]
 - 😄 Pronouns: She/Her
 - 🏫 Achiever @ Brototype
 - 🪐 Enthusiastic self learning
