@@ -4,8 +4,6 @@
 
 ## I am a Student, Learner, Digital Artist
 
-## I am a Student, Learner, Digital Artist
-
 <table width="100%" border="0">
 <tr>
 <td align="left" valign="top" width="60%">
