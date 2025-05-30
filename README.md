@@ -4,9 +4,12 @@
 
 ## I am a Student, Learner, Digital Artist
 
-<table width="100%" border="0">
-<tr>
-<td align="left" valign="middle" >
+<!-- Two-column layout using divs instead of table -->
+<div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 100%; max-width: 900px; margin: 0 auto; flex-wrap: wrap;">
+
+  <!-- Left Column (Text) -->
+  <div style="flex: 1; min-width: 280px; padding: 10px;">
 
 - 🔭 I’m currently working on Autodesk Sketchbook
 - 🌱 I’m currently learning Flutter
@@ -20,14 +23,15 @@
 - 💯 IEDC Brand Manager @ MEASS
 - ⚡ Fun fact: I'm Coool!!!
 
-</td>
-<td align="center" valign="middle">
+    </div>
 
-<img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="280" height="280" />
+    <!-- Right Column (Image) -->
+    <div style="flex: 1; min-width: 280px; padding: 10px;" align="center">
+      <img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="280" height="280" />
+    </div>
 
-</td>
-</tr>
-</table>
+    </div>
+  </div>
 
 ## Ping me on :
 
