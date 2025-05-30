@@ -4,6 +4,10 @@
 
 ## I am a Student, Learner, Digital Artist
 
+<table>
+<tr>
+<td align="left" valign="top" width="60%">
+
 - 🔭 I’m currently working on Autodesk Sketchbook
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with new opportunities
@@ -16,9 +20,14 @@
 - 💯 IEDC Brand Manager @ MEASS
 - ⚡ Fun fact: I'm Coool!!!
 
-<br />
+</td>
+<td align="center" valign="middle" width="40%">
 
-## Ping me on :
+<img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="280" height="280" />
+
+</td>
+</tr>
+</table>
 
 [<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359405-9eddd24d-7893-4dd5-b717-7207a4c18caf.png" />][Instagram]
 [<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359455-73cd4dbf-3b1f-4e6e-9358-b1924a4178f3.png" />][LinkedIn]
