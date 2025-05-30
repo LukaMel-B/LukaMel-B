@@ -4,9 +4,9 @@
 
 ## I am a Student, Learner, Digital Artist
 
-<table>
+<table widthet="100%" >
 <tr>
-<td align="left" valign="top" width="60%">
+<td align="left" valign="top">
 
 - 🔭 I’m currently working on Autodesk Sketchbook
 - 🌱 I’m currently learning Flutter
@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I'm Coool!!!
 
 </td>
-<td align="center" valign="middle" width="40%">
+<td align="center" valign="middle">
 
 <img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="280" height="280" />
 
