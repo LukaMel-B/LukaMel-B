@@ -1,12 +1,8 @@
 ### Hi World! I am Luha 🙌
 
- <!-- <img align="right" alt="GIF" src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="340" height="340" /> -->
+<img align="right" alt="GIF" src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="340" height="340" /><br><br><br><br>
 
 ## I am a Student, Learner, Digital Artist
-
-<table>
-  <tr>
-    <td valign="top" width="100%">
 
 - 🛠️ Currently working on: Autodesk Sketchbook
 - 🌱 Learning: Flutter
@@ -20,12 +16,7 @@
 - 🚀 Brand Manager @ IEDC MEASS
 - ⚡ Fun fact: I'm Cooool!!!
 
-</td>
-    <td valign="center" width="100%">
-      <img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true"  />
-    </td>
-  </tr>
-</table>
+<br />
 
 ## Ping me on :
 
@@ -33,7 +24,6 @@
 [<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359455-73cd4dbf-3b1f-4e6e-9358-b1924a4178f3.png" />][LinkedIn]
 
 <br />
-
 <br /><br />
 
 ## Languages and Tools :
