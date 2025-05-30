@@ -29,6 +29,8 @@
 </tr>
 </table>
 
+## Ping me on :
+
 [<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359405-9eddd24d-7893-4dd5-b717-7207a4c18caf.png" />][Instagram]
 [<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359455-73cd4dbf-3b1f-4e6e-9358-b1924a4178f3.png" />][LinkedIn]
 
