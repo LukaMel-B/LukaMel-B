@@ -4,34 +4,28 @@
 
 ## I am a Student, Learner, Digital Artist
 
-<!-- Two-column layout using divs instead of table -->
-<div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 100%; max-width: 900px; margin: 0 auto; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td valign="top" width="100%">
 
-  <!-- Left Column (Text) -->
-  <div style="flex: 1; min-width: 280px; padding: 10px;">
-
-- 🔭 I’m currently working on Autodesk Sketchbook
-- 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with new opportunities
-- 💬 Ask me about anything 😉
-- 📫 How to reach me: [Luha Saniyya][LinkedIn]
+- 🛠️ Currently working on: Autodesk Sketchbook
+- 🌱 Learning: Flutter
+- 🤝 Looking for: New opportunities
+- 💬 Ask me anything 😉
+- 📫 Reach me: [Luha Saniyya](https://www.linkedin.com/in/luha-saniyya)
 - 😄 Pronouns: She/Her
-- 🏫 Achiever @ Brototype
-- 🪐 Enthusiastic self learning
-- ⭐ TinkerHub Creative Lead @ MEASS
-- 💯 IEDC Brand Manager @ MEASS
-- ⚡ Fun fact: I'm Coool!!!
+- 📚 Achiever @ Brototype
+- 🧠 Self-learning enthusiast
+- ⭐ Creative Lead @ TinkerHub MEASS
+- 🚀 Brand Manager @ IEDC MEASS
+- ⚡ Fun fact: I'm Cooool!!!
 
-    </div>
-
-    <!-- Right Column (Image) -->
-    <div style="flex: 1; min-width: 280px; padding: 10px;" align="center">
-      <img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="280" height="280" />
-    </div>
-
-    </div>
-  </div>
+</td>
+    <td align="center" width="100%">
+      <img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="250" />
+    </td>
+  </tr>
+</table>
 
 ## Ping me on :
 
