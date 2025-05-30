@@ -21,8 +21,8 @@
 - ⚡ Fun fact: I'm Cooool!!!
 
 </td>
-    <td align="center" width="100%">
-      <img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true" width="250" />
+    <td valign="center" width="100%">
+      <img src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Images/me.png?raw=true"  />
     </td>
   </tr>
 </table>
